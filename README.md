@@ -14,9 +14,6 @@ Feel free to explore each project folder to learn more about the specific proble
 # Contributing
 Thank you for your interest in contributing to my machine learning portfolio! If you have any suggestions, improvements, or would like to contribute new projects, please feel free to submit a pull request. I appreciate any contributions that can enhance the overall quality and diversity of this repository.
 
-# License
-The code in this repository is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes. However, please provide attribution by linking back to this repository.
-
 # Contact 
  You can contact me through:
  
