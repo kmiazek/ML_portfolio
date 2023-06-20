@@ -22,6 +22,6 @@ The code in this repository is licensed under the MIT License. Feel free to use,
  
  [LinedIn](https://www.linkedin.com/in/katarzynamiazek/)
  
- [E-mail](katarzyna.k.miazek@gmail.com)
+ E-mail: katarzyna.k.miazek@gmail.com
  
  [Github](https://github.com/kmiazek)
